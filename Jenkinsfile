@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clone') {
             steps {
-                git 'https://github.com/your-username/simple-interest-calculator.git'
+                git 'https://github.com/EBF3KOR/test.git'
             }
         }
 
